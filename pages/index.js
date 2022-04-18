@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hi, I am Mengistu F. I am a Full-stack Developer. My skills are React,
+          Hi, I am Menge Fen. I am a Full-stack Developer. My skills are React,
           Redux, JavaScript, HTML5/CSS3. You can contact me with
           'mengefen@gmail.com'
         </p>
